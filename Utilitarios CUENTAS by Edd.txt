@@ -1,0 +1,9 @@
+
+Openshift es un proyecto de Red Hat de computación en la nube. 
+Podemos trabajar con diferentes lenguajes como Java, Ruby, PHP, 
+Node.js, Python y Perl, o usar frameworks CakePHP, Django, Ruby/Rails o Tornado entre otros. 
+ 
+En cuanto a base de datos podemos usar Mongodb, Mysql o PostgreSQL. 
+Dispone conexión con GitHub y acceso SSH. Es un lugar bastante robusto y con una gran comunidad.
+
+https://www.openshift.com/
