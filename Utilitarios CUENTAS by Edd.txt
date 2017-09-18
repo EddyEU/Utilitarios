@@ -7,3 +7,6 @@ En cuanto a base de datos podemos usar Mongodb, Mysql o PostgreSQL.
 Dispone conexión con GitHub y acceso SSH. Es un lugar bastante robusto y con una gran comunidad.
 
 https://www.openshift.com/
+
+Ya dentro de la cuenta
+https://console.starter-us-west-1.openshift.com/
